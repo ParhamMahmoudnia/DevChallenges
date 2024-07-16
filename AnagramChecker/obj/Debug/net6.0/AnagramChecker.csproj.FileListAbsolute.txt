@@ -1,0 +1,15 @@
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\AnagramChecker.csproj.AssemblyReference.cache
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\AnagramChecker.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\AnagramChecker.AssemblyInfoInputs.cache
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\AnagramChecker.AssemblyInfo.cs
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\AnagramChecker.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\AnagramChecker\bin\Debug\net6.0\AnagramChecker.exe
+Z:\DevChallenges\AnagramChecker\bin\Debug\net6.0\AnagramChecker.deps.json
+Z:\DevChallenges\AnagramChecker\bin\Debug\net6.0\AnagramChecker.runtimeconfig.json
+Z:\DevChallenges\AnagramChecker\bin\Debug\net6.0\AnagramChecker.dll
+Z:\DevChallenges\AnagramChecker\bin\Debug\net6.0\AnagramChecker.pdb
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\AnagramChecker.dll
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\refint\AnagramChecker.dll
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\AnagramChecker.pdb
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\AnagramChecker.genruntimeconfig.cache
+Z:\DevChallenges\AnagramChecker\obj\Debug\net6.0\ref\AnagramChecker.dll
