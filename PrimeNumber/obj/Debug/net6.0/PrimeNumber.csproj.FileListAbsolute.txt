@@ -1,0 +1,15 @@
+Z:\DevChallenges\PrimeNumber\bin\Debug\net6.0\PrimeNumber.exe
+Z:\DevChallenges\PrimeNumber\bin\Debug\net6.0\PrimeNumber.deps.json
+Z:\DevChallenges\PrimeNumber\bin\Debug\net6.0\PrimeNumber.runtimeconfig.json
+Z:\DevChallenges\PrimeNumber\bin\Debug\net6.0\PrimeNumber.dll
+Z:\DevChallenges\PrimeNumber\bin\Debug\net6.0\PrimeNumber.pdb
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.AssemblyReference.cache
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfoInputs.cache
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfo.cs
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\PrimeNumber.dll
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\refint\PrimeNumber.dll
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\PrimeNumber.pdb
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\PrimeNumber.genruntimeconfig.cache
+Z:\DevChallenges\PrimeNumber\obj\Debug\net6.0\ref\PrimeNumber.dll
