@@ -1,0 +1,15 @@
+Z:\DevChallenges\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.exe
+Z:\DevChallenges\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.deps.json
+Z:\DevChallenges\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.runtimeconfig.json
+Z:\DevChallenges\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.dll
+Z:\DevChallenges\FibonacciSequence\bin\Debug\net6.0\FibonacciSequence.pdb
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.csproj.AssemblyReference.cache
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.AssemblyInfoInputs.cache
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.AssemblyInfo.cs
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.dll
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\refint\FibonacciSequence.dll
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.pdb
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\FibonacciSequence.genruntimeconfig.cache
+Z:\DevChallenges\FibonacciSequence\obj\Debug\net6.0\ref\FibonacciSequence.dll
