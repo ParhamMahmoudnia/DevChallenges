@@ -1,0 +1,15 @@
+Z:\DevChallenges\FindSmallestNumber\bin\Debug\net6.0\FindSmallestNumber.exe
+Z:\DevChallenges\FindSmallestNumber\bin\Debug\net6.0\FindSmallestNumber.deps.json
+Z:\DevChallenges\FindSmallestNumber\bin\Debug\net6.0\FindSmallestNumber.runtimeconfig.json
+Z:\DevChallenges\FindSmallestNumber\bin\Debug\net6.0\FindSmallestNumber.dll
+Z:\DevChallenges\FindSmallestNumber\bin\Debug\net6.0\FindSmallestNumber.pdb
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\FindSmallestNumber.csproj.AssemblyReference.cache
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\FindSmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\FindSmallestNumber.AssemblyInfoInputs.cache
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\FindSmallestNumber.AssemblyInfo.cs
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\FindSmallestNumber.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\FindSmallestNumber.dll
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\refint\FindSmallestNumber.dll
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\FindSmallestNumber.pdb
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\FindSmallestNumber.genruntimeconfig.cache
+Z:\DevChallenges\FindSmallestNumber\obj\Debug\net6.0\ref\FindSmallestNumber.dll
