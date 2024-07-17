@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumber", "PrimeNumber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramChecker", "AnagramChecker\AnagramChecker.csproj", "{B715E372-9A7D-4C77-AC9B-E2FA2D953A8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialCalculation", "FactorialCalculation\FactorialCalculation.csproj", "{A2E66FF6-9146-4CC5-995A-21D5407C92B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B715E372-9A7D-4C77-AC9B-E2FA2D953A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B715E372-9A7D-4C77-AC9B-E2FA2D953A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B715E372-9A7D-4C77-AC9B-E2FA2D953A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E66FF6-9146-4CC5-995A-21D5407C92B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E66FF6-9146-4CC5-995A-21D5407C92B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E66FF6-9146-4CC5-995A-21D5407C92B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E66FF6-9146-4CC5-995A-21D5407C92B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

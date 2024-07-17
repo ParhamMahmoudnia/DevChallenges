@@ -1,0 +1,15 @@
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.csproj.AssemblyReference.cache
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.AssemblyInfoInputs.cache
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.AssemblyInfo.cs
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.exe
+Z:\DevChallenges\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.deps.json
+Z:\DevChallenges\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.runtimeconfig.json
+Z:\DevChallenges\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.dll
+Z:\DevChallenges\FactorialCalculation\bin\Debug\net6.0\FactorialCalculation.pdb
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.dll
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\refint\FactorialCalculation.dll
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.pdb
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\FactorialCalculation.genruntimeconfig.cache
+Z:\DevChallenges\FactorialCalculation\obj\Debug\net6.0\ref\FactorialCalculation.dll
