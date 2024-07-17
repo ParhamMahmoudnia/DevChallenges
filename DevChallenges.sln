@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialCalculation", "Fac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{28527BCE-D222-4445-9563-43716773B956}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLargestNumber", "FindLargestNumber\FindLargestNumber.csproj", "{EB48C11B-6C27-43F5-B795-0E67F9935B47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{28527BCE-D222-4445-9563-43716773B956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28527BCE-D222-4445-9563-43716773B956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28527BCE-D222-4445-9563-43716773B956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB48C11B-6C27-43F5-B795-0E67F9935B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB48C11B-6C27-43F5-B795-0E67F9935B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB48C11B-6C27-43F5-B795-0E67F9935B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB48C11B-6C27-43F5-B795-0E67F9935B47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

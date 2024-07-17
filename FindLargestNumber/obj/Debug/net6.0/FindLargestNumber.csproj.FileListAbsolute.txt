@@ -1,0 +1,15 @@
+Z:\DevChallenges\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.exe
+Z:\DevChallenges\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.deps.json
+Z:\DevChallenges\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.runtimeconfig.json
+Z:\DevChallenges\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.dll
+Z:\DevChallenges\FindLargestNumber\bin\Debug\net6.0\FindLargestNumber.pdb
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.csproj.AssemblyReference.cache
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.AssemblyInfoInputs.cache
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.AssemblyInfo.cs
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.dll
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\refint\FindLargestNumber.dll
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.pdb
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\FindLargestNumber.genruntimeconfig.cache
+Z:\DevChallenges\FindLargestNumber\obj\Debug\net6.0\ref\FindLargestNumber.dll
