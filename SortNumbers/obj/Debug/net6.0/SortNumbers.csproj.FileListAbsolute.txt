@@ -1,0 +1,15 @@
+Z:\DevChallenges\SortNumbers\bin\Debug\net6.0\SortNumbers.exe
+Z:\DevChallenges\SortNumbers\bin\Debug\net6.0\SortNumbers.deps.json
+Z:\DevChallenges\SortNumbers\bin\Debug\net6.0\SortNumbers.runtimeconfig.json
+Z:\DevChallenges\SortNumbers\bin\Debug\net6.0\SortNumbers.dll
+Z:\DevChallenges\SortNumbers\bin\Debug\net6.0\SortNumbers.pdb
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\SortNumbers.csproj.AssemblyReference.cache
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\SortNumbers.AssemblyInfoInputs.cache
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\SortNumbers.AssemblyInfo.cs
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\SortNumbers.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\SortNumbers.dll
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\refint\SortNumbers.dll
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\SortNumbers.pdb
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\SortNumbers.genruntimeconfig.cache
+Z:\DevChallenges\SortNumbers\obj\Debug\net6.0\ref\SortNumbers.dll

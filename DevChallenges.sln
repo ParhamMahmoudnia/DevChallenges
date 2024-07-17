@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLargestNumber", "FindLa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSmallestNumber", "FindSmallestNumber\FindSmallestNumber.csproj", "{F7ED9CEB-57E2-4A99-B956-606170FEA8B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNumbers", "SortNumbers\SortNumbers.csproj", "{2D43CBE5-03D4-4656-9C59-01222722BFAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F7ED9CEB-57E2-4A99-B956-606170FEA8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7ED9CEB-57E2-4A99-B956-606170FEA8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7ED9CEB-57E2-4A99-B956-606170FEA8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D43CBE5-03D4-4656-9C59-01222722BFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D43CBE5-03D4-4656-9C59-01222722BFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D43CBE5-03D4-4656-9C59-01222722BFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D43CBE5-03D4-4656-9C59-01222722BFAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
