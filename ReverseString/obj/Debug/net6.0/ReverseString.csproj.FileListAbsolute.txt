@@ -1,0 +1,15 @@
+Z:\DevChallenges\ReverseString\bin\Debug\net6.0\ReverseString.exe
+Z:\DevChallenges\ReverseString\bin\Debug\net6.0\ReverseString.deps.json
+Z:\DevChallenges\ReverseString\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+Z:\DevChallenges\ReverseString\bin\Debug\net6.0\ReverseString.dll
+Z:\DevChallenges\ReverseString\bin\Debug\net6.0\ReverseString.pdb
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ReverseString.csproj.AssemblyReference.cache
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ReverseString.dll
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\refint\ReverseString.dll
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ReverseString.pdb
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache
+Z:\DevChallenges\ReverseString\obj\Debug\net6.0\ref\ReverseString.dll
