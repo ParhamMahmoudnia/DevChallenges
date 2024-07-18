@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BinaryToDecimal/1.0.0": {
+        "runtime": {
+          "BinaryToDecimal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryToDecimal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

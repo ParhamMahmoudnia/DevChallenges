@@ -1,0 +1,15 @@
+Z:\DevChallenges\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.exe
+Z:\DevChallenges\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.deps.json
+Z:\DevChallenges\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.runtimeconfig.json
+Z:\DevChallenges\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.dll
+Z:\DevChallenges\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.pdb
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.csproj.AssemblyReference.cache
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.AssemblyInfoInputs.cache
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.AssemblyInfo.cs
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.dll
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\refint\BinaryToDecimal.dll
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.pdb
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.genruntimeconfig.cache
+Z:\DevChallenges\BinaryToDecimal\obj\Debug\net6.0\ref\BinaryToDecimal.dll
