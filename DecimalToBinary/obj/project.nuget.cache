@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0g2EOh3v3Fv+Ix79Pwwm8lLJsq3jqR+LqJlOe39/h+DAZRYHoIue9/28NGpJteCAL4iPipTgLxQOpygDs/BrAg==",
+  "success": true,
+  "projectFilePath": "Z:\\DevChallenges\\DecimalToBinary\\DecimalToBinary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parham\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Parham\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Parham\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Parham\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
